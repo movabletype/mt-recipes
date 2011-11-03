@@ -1,6 +1,6 @@
 <$mt:Var name="num_cols" value="6"$>
 <$mt:Var name="index" value="0"$>
-<mt:Categories><$mt:Var name="index" op="++" setvar="index"$><mt:SetVarBlock name="categories{$index}"><a href="<mt:CategoryArchiveLink>"><mt:CategoryLabel remove_html="1" smarttrim="20"></a></mt:SetVarBlock></mt:Categories>
+<mt:Categories><$mt:Var name="index" op="++" setvar="index"$><mt:SetVarBlock name="categories{$index}"><a href="<mt:CategoryArchiveLink>"><mt:CategoryLabel remove_html="1"></a></mt:SetVarBlock></mt:Categories>
 <$mt:Var name="categories" function="count" setvar="cat_count"$>
 <$mt:Var name="cat_count" op="%" value="$num_cols" setvar="modulus"$>
 <mt:If name="modulus" gt="0">
@@ -11,8 +11,7 @@
   <$mt:Var name="cat_count" op="/" value="$num_cols" setvar="cats_per_col"$>
 </mt:If>
 <mt:SetVarTemplate name="for_inner">
-  <$mt:Var name="index" op="++" setvar="index"$>
-  <$mt:Var name="categories{$index}"$>
+  <$mt:Var name="categories{$index}"$><$mt:Var name="index" op="++" setvar="index"$>
 </mt:SetVarTemplate>
     
 <$mt:Var name="index" value="0"$>
