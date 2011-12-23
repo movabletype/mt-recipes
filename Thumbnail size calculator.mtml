@@ -8,8 +8,8 @@ Example usage on last line
   <$mt:Var name="y2" value="265"$>
   <$mt:AssetProperty property="image_width" setvar="x1"$>
   <$mt:AssetProperty property="image_height" setvar="y1"$>
-  <$mt:Var name="x3" value="x1"$>
-  <$mt:Var name="y3" value="y1"$>
+  <$mt:Var name="x3" value="$x1"$>
+  <$mt:Var name="y3" value="$y1"$>
   <$mt:AssetThumbnailURL setvar="url"$>
   <$mt:Var name="OR" value="0"$>
   <mt:If name="x1" ge="$x2"><$mt:Var name="OR" value="1"$></mt:If>
