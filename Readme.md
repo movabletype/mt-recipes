@@ -1,4 +1,4 @@
-# Movable Type markup language recipes
+# Movable Type recipes
 
 Efficient designers and developers want to spend time solving problems rather than reinventing the wheel. To help all our users be more effective, we're collecting examples of how Movable Type can be used in interesting ways to address recurring issues.
 
