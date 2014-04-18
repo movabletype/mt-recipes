@@ -4,21 +4,21 @@ Efficient designers and developers want to spend time solving problems rather th
 
 ## Browse recipes
 
-* [Basename generation function.md](Basename generation function.md)
-* [Canonical link.md](Canonical link.md)
-* [Category archive pagination.md](Category archive pagination.md)
-* [Category distributor over columns.md](Category distributor over columns.md)
-* [Date ordinal.md](Date ordinal.md)
-* [Detect existance of archive listing.md](Detect existance of archive listing.md)
-* [Entries matching any of multiple custom fields.md](Entries matching any of multiple custom fields.md)
-* [Entries with nonunique titles.md](Entries with nonunique titles.md)
-* [Export entry data in MT format.md](Export entry data in MT format.md)
-* [Monthly archives distributor over columns.md](Monthly archives distributor over columns.md)
-* [Open graph meta tags.md](Open graph meta tags.md)
-* [Search processing time.md](Search processing time.md)
-* [Sort by other data.md](Sort by other data.md)
-* [Thumbnail size calculator.md](Thumbnail size calculator.md)
-* [XML feed primary category tag.md](XML feed primary category tag.md)
+* [Basename generation function](Basename generation function.md)
+* [Canonical link](Canonical link.md)
+* [Category archive pagination](Category archive pagination.md)
+* [Category distributor over columns](Category distributor over columns.md)
+* [Date ordinal](Date ordinal.md)
+* [Detect existance of archive listing](Detect existance of archive listing.md)
+* [Entries matching any of multiple custom fields](Entries matching any of multiple custom fields.md)
+* [Entries with nonunique titles](Entries with nonunique titles.md)
+* [Export entry data in MT format](Export entry data in MT format.md)
+* [Monthly archives distributor over columns](Monthly archives distributor over columns.md)
+* [Open graph meta tags](Open graph meta tags.md)
+* [Search processing time](Search processing time.md)
+* [Sort by other data](Sort by other data.md)
+* [Thumbnail size calculator](Thumbnail size calculator.md)
+* [XML feed primary category tag](XML feed primary category tag.md)
 
 ## Contribute
 
