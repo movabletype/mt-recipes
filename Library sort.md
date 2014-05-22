@@ -8,6 +8,6 @@ Sort entries using a library-style alpha sort, where a leading "a", "an", or "th
 	<mt:loop  name="myarray" sort_by="value">
 	<mt:setvarblock  name="itemid"><mt:var  name="__value__" regex="s/''(.*)?''\|(.*)/$2/gi"></mt:setvarblock>
 	<mt:entries  id="$itemid" limit="1">
-	<$mtinclude  module="Entry Listing"$>
+	<mt:EntryTitle>
 	</mt:entries>
 	</mt:loop>
