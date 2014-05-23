@@ -13,6 +13,7 @@ Efficient designers and developers want to spend time solving problems rather th
 * [Entries matching any of multiple custom fields](Entries matching any of multiple custom fields.md)
 * [Entries with nonunique titles](Entries with nonunique titles.md)
 * [Export entry data in MT format](Export entry data in MT format.md)
+* [Library (alphanumeric) sort](Library sort.md)
 * [Monthly archives distributor over columns](Monthly archives distributor over columns.md)
 * [Open graph meta tags](Open graph meta tags.md)
 * [Search processing time](Search processing time.md)
