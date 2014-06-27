@@ -17,4 +17,4 @@ We can use a regular expression replacement like `regex_replace="/^(a|an|the)[-_
       </mt:Entries>
     </mt:Loop>
 
-Note this method works well if you have not modified the basenames of the entries. If you have, you might want to change `EntryBaseanem` in the code above to `EntryTitle`, but that adds some complications with dealing with leading punctuation.
+Note this method works well if you have not modified the basenames of the entries. If you have, you might want to change `EntryBasename` in the code above to `EntryTitle`, but that adds some complications with dealing with leading punctuation.
